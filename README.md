@@ -2,13 +2,13 @@
 
 A simple MLP classifier trained on the [RAVDESS dataset](https://smartlaboratory.org/ravdess/).
 
-[See notebook for a narrated walk-through of the code.](https://nbviewer.jupyter.org/github/IliaZenkov/speech-emotion-recognition/blob/master/mlp_speech_classification.ipynb)
+### [See notebook for a narrated walk-through of the code.](https://nbviewer.jupyter.org/github/IliaZenkov/speech-emotion-recognition/blob/master/mlp_speech_classification.ipynb)
 
 # Table of Contents
   - [Intro: The MLP classifier and RAVDESS dataset](https://nbviewer.jupyter.org/github/IliaZenkov/speech-emotion-recognition/blob/master/mlp_speech_classification.ipynb#Intro:-The-MLP-classifier-and-RAVDESS-dataset)
     - [At a Glance](https://nbviewer.jupyter.org/github/IliaZenkov/speech-emotion-recognition/blob/master/mlp_speech_classification.ipynb#At-a-Glance)
   - [Feature Engineering](https://nbviewer.jupyter.org/github/IliaZenkov/speech-emotion-recognition/blob/master/mlp_speech_classification.ipynb#Feature-Engineering)
-    - [Short-Time Fourier Transform (STFT)](https://nbviewer.jupyter.org/github/IliaZenkov/speech-emotion-recognition/blob/master/mlp_speech_classification.ipynb#Short-Time-Fourier-Transform-(STFT)
+    - [Short-Time Fourier Transform (STFT)](https://nbviewer.jupyter.org/github/IliaZenkov/speech-emotion-recognition/blob/master/mlp_speech_classification.ipynb#Short-Time-Fourier-Transform-(STFT))
     - [MFCC](https://nbviewer.jupyter.org/github/IliaZenkov/speech-emotion-recognition/blob/master/mlp_speech_classification.ipynb#MFCC)
     - [Mel Spectrograms and Mel-Frequency Cepstrums](https://nbviewer.jupyter.org/github/IliaZenkov/speech-emotion-recognition/blob/master/mlp_speech_classification.ipynb#Mel-Spectrograms-and-Mel-Frequency-Cepstrums)
     - [The Chromagram](https://nbviewer.jupyter.org/github/IliaZenkov/speech-emotion-recognition/blob/master/mlp_speech_classification.ipynb#The-Chromagram)
