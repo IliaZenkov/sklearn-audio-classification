@@ -2,7 +2,7 @@
 
 A simple MLP classifier trained on the [RAVDESS dataset](https://smartlaboratory.org/ravdess/).
 
-### [See notebook for a narrated walk-through of the code.](https://nbviewer.jupyter.org/github/IliaZenkov/speech-emotion-recognition/blob/master/mlp_speech_classification.ipynb)
+### [See notebook for a narrated walk-through of the code](https://nbviewer.jupyter.org/github/IliaZenkov/speech-emotion-recognition/blob/master/mlp_speech_classification.ipynb)
 
 # Table of Contents
   - [Intro: The MLP classifier and RAVDESS dataset](https://nbviewer.jupyter.org/github/IliaZenkov/speech-emotion-recognition/blob/master/mlp_speech_classification.ipynb#Intro:-The-MLP-classifier-and-RAVDESS-dataset)
