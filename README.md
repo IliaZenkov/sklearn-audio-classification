@@ -6,7 +6,7 @@ A simple MLP classifier trained on the [RAVDESS dataset](https://smartlaboratory
 
 <!--TABLE OF CONTENTS-->
 # Table of Contents
-  - [Intro: Speech Emotion Recognition on the RAVDESS dataset](#Intro:-Speech-Emotion-Recognition-on-the-RAVDESS-dataset)
+  - [Intro\: Speech Emotion Recognition on the RAVDESS dataset](#Intro:-Speech-Emotion-Recognition-on-the-RAVDESS-dataset)
   - [Machine Learning Process Overview](#Machine-Learning-Process-Overview)
   - [Feature Engineering](#Feature-Engineering)
     - [Short-Time Fourier Transform](#Short-Time-Fourier-Transform)
