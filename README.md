@@ -36,13 +36,9 @@
 
 <p align="center"><img src="https://raw.githubusercontent.com/IliaZenkov/dnn-audio-classification/master/example/waveform.GIF"></p>
 
-|Emotion|Power Spectrogram         |        Chromagram|
-|--|--------------------------|------------------|
-|Happy
-
-
-
-Angry|<img src="https://raw.githubusercontent.com/IliaZenkov/dnn-audio-classification/master/example/powerspec.GIF">  | <img src="https://raw.githubusercontent.com/IliaZenkov/dnn-audio-classification/master/example/chroma.GIF">|
+|Power Spectrogram         |        Chromagram|
+|---------------------------|------------------|
+<img src="https://raw.githubusercontent.com/IliaZenkov/dnn-audio-classification/master/example/powerspec.GIF">  | <img src="https://raw.githubusercontent.com/IliaZenkov/dnn-audio-classification/master/example/chroma.GIF">|
 
 |Mel Spectrogram           |  MFC Coefficients|
 |--------------------------|------------------|
