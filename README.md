@@ -33,13 +33,14 @@
 
 title1             |  title2  | title3            | title4
 :-------------------------:|:-------------------------::-------------------------:|:-------------------------:
-<img align="center" src="https://raw.githubusercontent.com/IliaZenkov/dnn-audio-classification/master/example/waveform.GIF">|
+<p align="center">
+<img src="https://raw.githubusercontent.com/IliaZenkov/dnn-audio-classification/master/example/waveform.GIF"></p>
 <img src="https://raw.githubusercontent.com/IliaZenkov/dnn-audio-classification/master/example/powerspec.GIF">|
 <img src="https://raw.githubusercontent.com/IliaZenkov/dnn-audio-classification/master/example/chroma.GIF">
 <img src="https://raw.githubusercontent.com/IliaZenkov/dnn-audio-classification/master/example/melspec.GIF">
 <img src="https://raw.githubusercontent.com/IliaZenkov/dnn-audio-classification/master/example/mfcc.GIF">
 <img src="https://raw.githubusercontent.com/IliaZenkov/dnn-audio-classification/master/example/confmatrix.GIF">
-<img src="https://raw.githubusercontent.com/IliaZenkov/dnn-audio-classification/master/example/learncurve.GIF">
+<p align="center><img src="https://raw.githubusercontent.com/IliaZenkov/dnn-audio-classification/master/example/learncurve.GIF"></p>
 
 
 ## Purpose
