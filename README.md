@@ -24,7 +24,7 @@
     - [Network Architecture](https://nbviewer.jupyter.org/github/IliaZenkov/speech-emotion-recognition/blob/master/dnn_audio_classification.ipynb#Network-Architecture)
     - [Hyperparameter Optimization and Grid Search](https://nbviewer.jupyter.org/github/IliaZenkov/speech-emotion-recognition/blob/master/dnn_audio_classification.ipynb#Hyperparameter-Optimization-and-Grid-Search)
   - [Training and Evaluating the MLP Model](https://nbviewer.jupyter.org/github/IliaZenkov/speech-emotion-recognition/blob/master/dnn_audio_classification.ipynb#Training-and-Evaluating-the-MLP-Model)
-    - [Confusion Matrix](https://nbviewer.jupyter.org/github/IliaZenkov/speech-emotion-recognition/blob/master/dnn_audio_classification.ipynb#Confusion-Matrix)
+    - [Confusion Matrix, Precision, Recall, F-Score](https://nbviewer.jupyter.org/github/IliaZenkov/speech-emotion-recognition/blob/master/dnn_audio_classification.ipynb#Confusion-Matrix)
     - [K-Fold Cross-Validation](https://nbviewer.jupyter.org/github/IliaZenkov/speech-emotion-recognition/blob/master/dnn_audio_classification.ipynb#K-Fold-Cross-Validation)
     - [The Validation Curve: Further Tuning of Hyperparameters](https://nbviewer.jupyter.org/github/IliaZenkov/speech-emotion-recognition/blob/master/dnn_audio_classification.ipynb#The-Validation-Curve:-Further-Tuning-of-Hyperparameters)
     - [The Learning Curve: Determining Optimal Training Set Size](https://nbviewer.jupyter.org/github/IliaZenkov/speech-emotion-recognition/blob/master/dnn_audio_classification.ipynb#The-Learning-Curve:-Determining-Optimal-Training-Set-Size)
