@@ -32,9 +32,9 @@
   - [Higher Complexity DNNs](https://nbviewer.jupyter.org/github/IliaZenkov/speech-emotion-recognition/blob/master/audio_classification_dnns.ipynb#Higher-Complexity-DNNs)
 
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/IliaZenkov/dnn-audio-classification/master/example/waveform.GIF"></p>
-|Power Spectrogram           |  Chromagram|
+<p align="center"><img src="https://raw.githubusercontent.com/IliaZenkov/dnn-audio-classification/master/example/waveform.GIF"></p>
+
+|Power Spectrogram         |        Chromagram|
 |--------------------------|------------------|
 |<img src="https://raw.githubusercontent.com/IliaZenkov/dnn-audio-classification/master/example/powerspec.GIF">  | <img src="https://raw.githubusercontent.com/IliaZenkov/dnn-audio-classification/master/example/chroma.GIF">|
 
