@@ -6,8 +6,8 @@ A simple MLP classifier trained on the [RAVDESS dataset](https://smartlaboratory
 
 <!--TABLE OF CONTENTS-->
 # Table of Contents
-  - [Intro: Speech Emotion Recognition on the RAVDESS dataset](#https://nbviewer.jupyter.org/github/IliaZenkov/speech-emotion-recognition/blob/master/audio_classification.ipynb#Intro:-Speech-Emotion-Recognition-on-the-RAVDESS-dataset)
-  - [Machine Learning Process Overview](#https://nbviewer.jupyter.org/github/IliaZenkov/speech-emotion-recognition/blob/master/audio_classification.ipynb#Machine-Learning-Process-Overview)
+  - [Intro: Speech Emotion Recognition on the RAVDESS dataset](https://nbviewer.jupyter.org/github/IliaZenkov/speech-emotion-recognition/blob/master/audio_classification.ipynb#Intro:-Speech-Emotion-Recognition-on-the-RAVDESS-dataset)
+  - [Machine Learning Process Overview](https://nbviewer.jupyter.org/github/IliaZenkov/speech-emotion-recognition/blob/master/audio_classification.ipynb#Machine-Learning-Process-Overview)
   - [Feature Engineering](#https://nbviewer.jupyter.org/github/IliaZenkov/speech-emotion-recognition/blob/master/audio_classification.ipynb#Feature-Engineering)
     - [Short-Time Fourier Transform](#https://nbviewer.jupyter.org/github/IliaZenkov/speech-emotion-recognition/blob/master/audio_classification.ipynb#Short-Time-Fourier-Transform)
     - [Mel-Frequency Cepstral Coefficients](#https://nbviewer.jupyter.org/github/IliaZenkov/speech-emotion-recognition/blob/master/audio_classification.ipynb#Mel-Frequency-Cepstral-Coefficients)
