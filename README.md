@@ -1,5 +1,15 @@
 # Introduction to Audio Classification with Deep Neural Networks ¶
 ## [See Notebook for Code Walk-Through](https://nbviewer.jupyter.org/github/IliaZenkov/audio-classification-dnn/blob/master/audio_classification_dnns.ipynb)
+<p align="center"><img src="https://raw.githubusercontent.com/IliaZenkov/dnn-audio-classification/master/example/waveform.GIF"></p>
+|Power Spectrogram         |        Chromagram|
+|--------------------------|------------------|
+|<img src="https://raw.githubusercontent.com/IliaZenkov/dnn-audio-classification/master/example/powerspec.GIF">  | <img src="https://raw.githubusercontent.com/IliaZenkov/dnn-audio-classification/master/example/chroma.GIF">|
+|Mel Spectrogram           |  MFC Coefficients|
+|--------------------------|------------------|
+|<img src="https://raw.githubusercontent.com/IliaZenkov/dnn-audio-classification/master/example/melspec.GIF">  |  <img src="https://raw.githubusercontent.com/IliaZenkov/dnn-audio-classification/master/example/mfcc.GIF">|
+<p align="center"><img src="https://raw.githubusercontent.com/IliaZenkov/dnn-audio-classification/master/example/confmatrix.GIF">
+<img src="https://raw.githubusercontent.com/IliaZenkov/dnn-audio-classification/master/example/learncurve.GIF"></p>
+
 <!--TABLE OF CONTENTS-->
 # Table of Contents
   - [Intro: Speech Emotion Recognition on the RAVDESS dataset](https://nbviewer.jupyter.org/github/IliaZenkov/speech-emotion-recognition/blob/master/audio_classification_dnns.ipynb#Intro:-Speech-Emotion-Recognition-on-the-RAVDESS-dataset)
@@ -30,20 +40,6 @@
     - [The Validation Curve: Further Tuning of Hyperparameters](https://nbviewer.jupyter.org/github/IliaZenkov/speech-emotion-recognition/blob/master/audio_classification_dnns.ipynb#The-Validation-Curve:-Further-Tuning-of-Hyperparameters)
     - [The Learning Curve: Determining Optimal Training Set Size](https://nbviewer.jupyter.org/github/IliaZenkov/speech-emotion-recognition/blob/master/audio_classification_dnns.ipynb#The-Learning-Curve:-Determining-Optimal-Training-Set-Size)
   - [Higher Complexity DNNs](https://nbviewer.jupyter.org/github/IliaZenkov/speech-emotion-recognition/blob/master/audio_classification_dnns.ipynb#Higher-Complexity-DNNs)
-
-
-<p align="center"><img src="https://raw.githubusercontent.com/IliaZenkov/dnn-audio-classification/master/example/waveform.GIF"></p>
-
-|Power Spectrogram         |        Chromagram|
-|--------------------------|------------------|
-|<img src="https://raw.githubusercontent.com/IliaZenkov/dnn-audio-classification/master/example/powerspec.GIF">  | <img src="https://raw.githubusercontent.com/IliaZenkov/dnn-audio-classification/master/example/chroma.GIF">|
-
-|Mel Spectrogram           |  MFC Coefficients|
-|--------------------------|------------------|
-|<img src="https://raw.githubusercontent.com/IliaZenkov/dnn-audio-classification/master/example/melspec.GIF">  |  <img src="https://raw.githubusercontent.com/IliaZenkov/dnn-audio-classification/master/example/mfcc.GIF">|
-<p align="center"><img src="https://raw.githubusercontent.com/IliaZenkov/dnn-audio-classification/master/example/confmatrix.GIF">
-<img src="https://raw.githubusercontent.com/IliaZenkov/dnn-audio-classification/master/example/learncurve.GIF"></p>
-
 
 ## Purpose
 This notebook serves as an introduction to working with audio data for classification problems; it is meant as a learning resource rather than a demonstration of the state-of-the-art. The techniques mentioned in this notebook apply not only to classification problems, but to regression problems and problems dealing with other types of input data as well. I focus particularly on feature engineering techniques for audio data and provide an in-depth look at the logic, concepts, and properties of the Multilayer Perceptron (MLP) model, an ancestor and the origin of deep neural networks (DNNs) today. I also provide an introduction to a few key machine learning models and the logic in choosing their hyperparameters. These objectives are framed by the task of recognizing emotion from snippets of speech audio from the [RAVDESS dataset](https://smartlaboratory.org/ravdess/).
