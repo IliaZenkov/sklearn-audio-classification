@@ -35,8 +35,9 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/IliaZenkov/dnn-audio-classification/master/example/waveform.GIF"></p>
 |Power Spectrogram     |  Chromagram|
-|-------------------------|-------------------------|
+|-------------------------|---------------------|
 |wat  | wat2 |
+
 |Mel Spectrogram           |  MFC Coefficients|
 |--------------------------|------------------|
 |<img src="https://raw.githubusercontent.com/IliaZenkov/dnn-audio-classification/master/example/melspec.GIF">  |  <img src="https://raw.githubusercontent.com/IliaZenkov/dnn-audio-classification/master/example/mfcc.GIF">|
