@@ -1,7 +1,6 @@
 
 # Introduction to Audio Classification with Deep Neural Networks</h1>
 ## [See Notebook for Code Walk-Through](https://nbviewer.jupyter.org/github/IliaZenkov/audio-classification-dnn/blob/master/audio_classification_dnns.ipynb)
-<p align="center"><img src="https://raw.githubusercontent.com/IliaZenkov/dnn-audio-classification/master/example/waveform.GIF"></p>
 
 <!--TABLE OF CONTENTS-->
 # Table of Contents
@@ -34,6 +33,7 @@
     - [The Learning Curve: Determining Optimal Training Set Size](https://nbviewer.jupyter.org/github/IliaZenkov/speech-emotion-recognition/blob/master/audio_classification_dnns.ipynb#The-Learning-Curve:-Determining-Optimal-Training-Set-Size)
   - [Higher Complexity DNNs](https://nbviewer.jupyter.org/github/IliaZenkov/speech-emotion-recognition/blob/master/audio_classification_dnns.ipynb#Higher-Complexity-DNNs)
 
+<p align="center"><img src="https://raw.githubusercontent.com/IliaZenkov/dnn-audio-classification/master/example/waveform.GIF"></p>
 |Power Spectrogram         |        Chromagram|
 |--------------------------|------------------|
 |<img src="https://raw.githubusercontent.com/IliaZenkov/dnn-audio-classification/master/example/powerspec.GIF">  | <img src="https://raw.githubusercontent.com/IliaZenkov/dnn-audio-classification/master/example/chroma.GIF">|
