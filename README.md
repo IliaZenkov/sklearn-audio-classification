@@ -11,7 +11,7 @@ A simple MLP classifier trained on the [RAVDESS dataset](https://smartlaboratory
   - [Feature Engineering](#https://nbviewer.jupyter.org/github/IliaZenkov/speech-emotion-recognition/blob/master/audio_classification.ipynb#Feature-Engineering)
     - [Short-Time Fourier Transform](#https://nbviewer.jupyter.org/github/IliaZenkov/speech-emotion-recognition/blob/master/audio_classification.ipynb#Short-Time-Fourier-Transform)
     - [Mel-Frequency Cepstral Coefficients](#https://nbviewer.jupyter.org/github/IliaZenkov/speech-emotion-recognition/blob/master/audio_classification.ipynb#Mel-Frequency-Cepstral-Coefficients)
-    - [Mel Spectrograms and Mel-Frequency Cepstrums](#https://nbviewer.jupyter.org/github/IliaZenkov/speech-emotion-recognition/blob/master/audio_classification.ipynb#Mel-Spectrograms-and-Mel-Frequency-Cepstrums)
+    - [Mel Spectrograms and Mel-Frequency Cepstrums](https://nbviewer.jupyter.org/github/IliaZenkov/speech-emotion-recognition/blob/master/audio_classification.ipynb#Mel-Spectrograms-and-Mel-Frequency-Cepstrums)
     - [The Chromagram](#https://nbviewer.jupyter.org/github/IliaZenkov/speech-emotion-recognition/blob/master/audio_classification.ipynb#The-Chromagram)
   - [Feature Extraction](#https://nbviewer.jupyter.org/github/IliaZenkov/speech-emotion-recognition/blob/master/audio_classification.ipynb#Feature-Extraction)
     - [Load the Dataset and Compute Features](#https://nbviewer.jupyter.org/github/IliaZenkov/speech-emotion-recognition/blob/master/audio_classification.ipynb#Load-the-Dataset-and-Compute-Features)
