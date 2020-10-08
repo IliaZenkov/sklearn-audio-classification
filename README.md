@@ -31,7 +31,7 @@
     - [K-Fold Cross-Validation](https://nbviewer.jupyter.org/github/IliaZenkov/sklearn-audio-classification/blob/master/sklearn_audio_classification.ipynb#K-Fold-Cross-Validation)
     - [The Validation Curve: Further Tuning of Hyperparameters](https://nbviewer.jupyter.org/github/IliaZenkov/sklearn-audio-classification/blob/master/sklearn_audio_classification.ipynb#The-Validation-Curve:-Further-Tuning-of-Hyperparameters)
     - [The Learning Curve: Determining Optimal Training Set Size](https://nbviewer.jupyter.org/github/IliaZenkov/sklearn-audio-classification/blob/master/sklearn_audio_classification.ipynb#The-Learning-Curve:-Determining-Optimal-Training-Set-Size)
-  - [Higher Complexity DNNs](https://nbviewer.jupyter.org/github/IliaZenkov/sklearn-audio-classification/blob/master/sklearn_audio_classification.ipynb#Higher-Complexity-DNNs)
+  - [Conclusion & Higher Complexity DNNs](https://nbviewer.jupyter.org/github/IliaZenkov/sklearn-audio-classification/blob/master/sklearn_audio_classification.ipynb#Conclusion)
 
 
 <p align="center"><img src="https://raw.githubusercontent.com/IliaZenkov/dnn-audio-classification/master/example/waveform.GIF"></p>
