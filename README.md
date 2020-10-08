@@ -33,7 +33,7 @@
 
 title1             |  title2  | title3            | title4
 :-------------------------:|:-------------------------::-------------------------:|:-------------------------:
-<img src="https://raw.githubusercontent.com/IliaZenkov/dnn-audio-classification/master/example/waveform.GIF">|
+<img align="center" src="https://raw.githubusercontent.com/IliaZenkov/dnn-audio-classification/master/example/waveform.GIF">|
 <img src="https://raw.githubusercontent.com/IliaZenkov/dnn-audio-classification/master/example/powerspec.GIF">|
 <img src="https://raw.githubusercontent.com/IliaZenkov/dnn-audio-classification/master/example/chroma.GIF">
 <img src="https://raw.githubusercontent.com/IliaZenkov/dnn-audio-classification/master/example/melspec.GIF">
