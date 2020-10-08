@@ -1,5 +1,5 @@
 # Introduction to Audio Classification with Deep Neural Networks ¶
-### [See notebook for a narrated walk-through of the code](https://nbviewer.jupyter.org/github/IliaZenkov/speech-emotion-recognition/blob/master/audio_classification.ipynb)
+### [See notebook for code walk-through](https://nbviewer.jupyter.org/github/IliaZenkov/speech-emotion-recognition/blob/master/audio_classification.ipynb)
 <!--TABLE OF CONTENTS-->
 # Table of Contents
   - [Intro: Speech Emotion Recognition on the RAVDESS dataset](https://nbviewer.jupyter.org/github/IliaZenkov/speech-emotion-recognition/blob/master/audio_classification.ipynb#Intro:-Speech-Emotion-Recognition-on-the-RAVDESS-dataset)
