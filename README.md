@@ -37,6 +37,7 @@
 |Power Spectrogram           |  Chromagram|
 |--------------------------|------------------|
 |<img src="https://raw.githubusercontent.com/IliaZenkov/dnn-audio-classification/master/example/powerspec.GIF">  | <img src="https://raw.githubusercontent.com/IliaZenkov/dnn-audio-classification/master/example/chroma.GIF">|
+
 |Mel Spectrogram           |  MFC Coefficients|
 |--------------------------|------------------|
 |<img src="https://raw.githubusercontent.com/IliaZenkov/dnn-audio-classification/master/example/melspec.GIF">  |  <img src="https://raw.githubusercontent.com/IliaZenkov/dnn-audio-classification/master/example/mfcc.GIF">|
