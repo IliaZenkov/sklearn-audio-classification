@@ -1,7 +1,6 @@
 # Introduction to Audio Classification with Deep Neural Networks ¶
 ## [See Notebook for Code Walk-Through](https://nbviewer.jupyter.org/github/IliaZenkov/audio-classification-dnn/blob/master/audio_classification_dnns.ipynb)
 <p align="center"><img src="https://raw.githubusercontent.com/IliaZenkov/dnn-audio-classification/master/example/waveform.GIF"></p>
-
 |Power Spectrogram         |        Chromagram|
 |--------------------------|------------------|
 |<img src="https://raw.githubusercontent.com/IliaZenkov/dnn-audio-classification/master/example/powerspec.GIF">  | <img src="https://raw.githubusercontent.com/IliaZenkov/dnn-audio-classification/master/example/chroma.GIF">|
