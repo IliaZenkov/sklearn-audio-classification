@@ -31,7 +31,7 @@
     - [The Learning Curve: Determining Optimal Training Set Size](https://nbviewer.jupyter.org/github/IliaZenkov/speech-emotion-recognition/blob/master/audio_classification_dnn.ipynb#The-Learning-Curve:-Determining-Optimal-Training-Set-Size)
   - [Higher Complexity DNNs](https://nbviewer.jupyter.org/github/IliaZenkov/speech-emotion-recognition/blob/master/audio_classification_dnn.ipynb#Higher-Complexity-DNNs)
 
-Solarized dark             |  Solarized Ocean
+title1             |  title2  | title3            | title4
 :-------------------------:|:-------------------------::-------------------------:|:-------------------------:
 <img src="https://raw.githubusercontent.com/IliaZenkov/dnn-audio-classification/master/example/waveform.GIF">
 <img src="https://raw.githubusercontent.com/IliaZenkov/dnn-audio-classification/master/example/powerspec.GIF">
