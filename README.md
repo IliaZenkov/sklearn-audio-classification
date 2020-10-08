@@ -31,16 +31,16 @@
     - [The Learning Curve: Determining Optimal Training Set Size](https://nbviewer.jupyter.org/github/IliaZenkov/speech-emotion-recognition/blob/master/audio_classification_dnns.ipynb#The-Learning-Curve:-Determining-Optimal-Training-Set-Size)
   - [Higher Complexity DNNs](https://nbviewer.jupyter.org/github/IliaZenkov/speech-emotion-recognition/blob/master/audio_classification_dnns.ipynb#Higher-Complexity-DNNs)
 
-title1             |  title2  | title3            | title4
-:-------------------------:|:-------------------------::-------------------------:|:-------------------------:
+
 <p align="center">
 <img src="https://raw.githubusercontent.com/IliaZenkov/dnn-audio-classification/master/example/waveform.GIF"></p>
-<img src="https://raw.githubusercontent.com/IliaZenkov/dnn-audio-classification/master/example/powerspec.GIF">|
-<img src="https://raw.githubusercontent.com/IliaZenkov/dnn-audio-classification/master/example/chroma.GIF">
-<img src="https://raw.githubusercontent.com/IliaZenkov/dnn-audio-classification/master/example/melspec.GIF">
-<img src="https://raw.githubusercontent.com/IliaZenkov/dnn-audio-classification/master/example/mfcc.GIF">
-<img src="https://raw.githubusercontent.com/IliaZenkov/dnn-audio-classification/master/example/confmatrix.GIF">
-<p align="center><img src="https://raw.githubusercontent.com/IliaZenkov/dnn-audio-classification/master/example/learncurve.GIF"></p>
+Power Spectrogram            |  Chromagram
+:-------------------------:|:-------------------------:
+<img src="https://raw.githubusercontent.com/IliaZenkov/dnn-audio-classification/master/example/powerspec.GIF">  |  <img src="https://raw.githubusercontent.com/IliaZenkov/dnn-audio-classification/master/example/chroma.GIF">
+Mel Spectrogram           |  MFC Coefficients
+<img src="https://raw.githubusercontent.com/IliaZenkov/dnn-audio-classification/master/example/melspec.GIF">  |  <img src="https://raw.githubusercontent.com/IliaZenkov/dnn-audio-classification/master/example/mfcc.GIF">
+<p align="center"><img src="https://raw.githubusercontent.com/IliaZenkov/dnn-audio-classification/master/example/confmatrix.GIF">
+<img src="https://raw.githubusercontent.com/IliaZenkov/dnn-audio-classification/master/example/learncurve.GIF"></p>
 
 
 ## Purpose
