@@ -1,6 +1,6 @@
 
 # Introduction to Audio Classification with Deep Neural Networks</h1>
-## [See Notebook for Code Walk-Through](https://nbviewer.jupyter.org/github/IliaZenkov/audio-classification-dnn/blob/master/audio_classification_dnns.ipynb)
+## [See Notebook for Code Walk-Through](https://nbviewer.jupyter.org/github/IliaZenkov/sklearn-audio-classification/blob/master/audio_classification_dnns.ipynb)
 
 <!--TABLE OF CONTENTS-->
 # Table of Contents
